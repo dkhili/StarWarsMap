@@ -1,2 +1,0 @@
-# StarWarsMap
-Created with CodeSandbox
