@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from "react-dom";
-import Hello from "./Hello";
+import StarWars from "./StarWars";
 
 const styles = {
   fontFamily: "sans-serif",
@@ -9,7 +9,7 @@ const styles = {
 
 const App = () => (
   <div style={styles}>
-    <Hello name="CodeSandbox" />
+    <StarWars name="CodeSandbox" />
   </div>
 );
 
